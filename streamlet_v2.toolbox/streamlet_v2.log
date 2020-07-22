@@ -1,0 +1,244 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.21)  21 JUL 2020 10:18
+entering extended mode
+**./streamlet_v2.tex
+(streamlet_v2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+("D:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("D:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("D:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+("D:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+("D:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) ("D:\Program Files\MiKTeX\tex/latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) ("D:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\symlength=\skip49
+\equalswidth=\skip50
+\charwidth=\skip51
+\boxrulewd=\skip52
+\boxlineht=\skip53
+\boxruleht=\skip54
+\boxruledp=\skip55
+\pcalvspace=\skip56
+\lcomindent=\skip57
+\@xlen=\skip58
+\templena=\skip59
+\templenb=\skip60
+\tempboxa=\box45
+\vshadelen=\skip61
+\boxwidth=\skip62
+\multicommentdepth=\skip63
+\c@pardepth=\count176
+\tempsbox=\box46
+\@cparht=\skip64
+\@cpardp=\skip65
+\xmcomlen=\skip66
+\spacewidth=\skip67
+\alignboxwidth=\skip68
+\alignwidth=\skip69
+\alignbox=\box47
+\symtlaitalics=\mathgroup5
+\c@tlx@ctr=\count177
+("D:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty"
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks15
+\verbatim@line=\toks16
+\verbatim@in@stream=\read2
+) ("D:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box48
+)
+No file streamlet_v2.aux.
+\openout1 = `streamlet_v2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+("D:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen135
+\scratchbox=\box49
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen136
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 942.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 942.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 94
+2.
+("D:\Program Files\MiKTeX\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 9
+49.
+("D:\Program Files\MiKTeX\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 949.
+
+Overfull \hbox (13.74213pt too wide) in paragraph at lines 956--957
+[][] 
+ []
+
+\%{23}{4}{75.39757pt}
+\%{24}{2}{67.50697pt}
+\%{26}{1}{40.7637pt}
+\%{28}{2}{18.84721pt}
+\%{30}{1}{13.41669pt}
+\%{34}{1}{14.31938pt}
+\%{38}{1}{13.41669pt}
+\%{39}{2}{18.84721pt}
+[1
+
+{C:/Users/yashf/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (13.74213pt too wide) in paragraph at lines 1006--1007
+[][] 
+ []
+
+\%{61}{2}{35.70381pt}
+\%{62}{1}{11.11102pt}
+\%{63}{1}{11.11102pt}
+\%{64}{1}{11.11102pt}
+\%{66}{1}{11.11102pt}
+\%{67}{1}{11.11102pt}
+\%{69}{5}{77.58282pt}
+\%{69}{6}{88.69385pt}
+\%{70}{1}{11.11102pt}
+\%{70}{2}{23.26651pt}
+\%{71}{1}{31.31093pt}
+\%{71}{2}{42.42195pt}
+\%{71}{3}{54.57744pt}
+\%{72}{1}{31.31093pt}
+\%{72}{2}{42.42195pt}
+\%{73}{1}{11.11102pt}
+\%{74}{1}{31.31093pt}
+\%{74}{2}{42.42195pt}
+\%{74}{3}{53.53297pt}
+\%{74}{4}{64.644pt}
+\%{74}{6}{89.99243pt}
+\%{74}{7}{103.32565pt}
+\%{74}{9}{129.75743pt}
+\%{74}{10}{140.86845pt}
+\%{74}{13}{172.92432pt}
+\%{74}{14}{188.47975pt}
+\%{74}{20}{261.53947pt}
+\%{74}{21}{277.09491pt}
+\%{74}{24}{318.021pt}
+\%{74}{25}{333.57643pt}
+\%{75}{1}{11.11102pt}
+\%{75}{2}{22.22205pt}
+\%{75}{4}{47.57048pt}
+\%{75}{5}{60.9037pt}
+\%{75}{7}{87.33548pt}
+\%{75}{8}{98.4465pt}
+\%{75}{11}{130.50237pt}
+\%{75}{12}{146.0578pt}
+\%{75}{18}{219.11752pt}
+\%{75}{19}{234.67296pt}
+\%{75}{22}{275.59904pt}
+\%{75}{23}{291.15448pt}
+\%{76}{1}{11.11102pt}
+\%{77}{1}{11.11102pt}
+\%{77}{2}{23.26651pt}
+\%{78}{1}{31.31093pt}
+\%{78}{2}{42.42195pt}
+\%{79}{1}{31.31093pt}
+\%{79}{2}{42.42195pt}
+\%{80}{1}{11.11102pt}
+\%{81}{1}{11.11102pt}
+\%{82}{1}{11.11102pt}
+\%{82}{3}{23.68178pt}
+\%{82}{4}{37.015pt}
+\%{82}{11}{118.13539pt}
+\%{82}{12}{131.46861pt}
+\%{83}{1}{31.31093pt}
+\%{83}{2}{42.42195pt}
+\%{83}{4}{54.9927pt}
+\%{83}{5}{68.32593pt}
+\%{83}{12}{149.44632pt}
+\%{83}{13}{162.77954pt}
+\%{84}{1}{11.11102pt}
+\%{89}{2}{73.56744pt}
+\%{89}{3}{84.67847pt}
+\%{90}{1}{11.11102pt}
+[2]
+\%{92}{1}{20.94292pt}
+\%{92}{2}{39.83156pt}
+\%{92}{3}{43.72046pt}
+\%{95}{1}{19.47623pt}
+\%{95}{2}{38.36487pt}
+\%{95}{3}{49.47589pt}
+\%{96}{1}{11.11102pt}
+[3] (streamlet_v2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1242 strings out of 481225
+ 16779 string characters out of 2915928
+ 266849 words of memory out of 3000000
+ 16860 multiletter control sequences out of 15000+200000
+ 538384 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 26i,11n,25p,229b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbsy10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr5.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmti7.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfon
+t/lasy10.pfb>
+Output written on streamlet_v2.pdf (3 pages, 145430 bytes).
+PDF statistics:
+ 68 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
